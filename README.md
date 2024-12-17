@@ -1,1 +1,2 @@
-# lastlast
+# nextjs-dashboard
+Learn NextJS
